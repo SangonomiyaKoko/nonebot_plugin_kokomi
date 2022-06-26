@@ -3,7 +3,6 @@ from nonebot.typing import T_State
 from nonebot.adapters.onebot.v11 import GroupMessageEvent, Bot, Message, MessageSegment, Event
 import os
 import sys
-# 数据响应模块
 wws_me = on_keyword({'wws me info'})
 
 
